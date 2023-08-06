@@ -6,6 +6,7 @@ Please make sure you have installed the following dependencies on your environme
    - PHP 8.1
    - mysql version 8
    - Node 14.5.*
+   - Docker version 24.*
 
 1) Clone the GitHub repository from https://github.com/SikandarShabbir/TaskManagerPro.git
 
